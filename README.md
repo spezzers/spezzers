@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-About a decade after graduating with a degree in graphic design, I had - for the first time ever - that feeling of "this is what I want to do with my life!". This previously elusive passion came to me at last while studying an online full stack web development course.
+About a decade after graduating university, I realised - for the first time ever - that "this is what I want to do with my life!". The discovery came to me while deviating from my degree subject of *Graphic Design & Illustration* and studying the [[Full Stack Open]] web development course provided by University Helsinki.
 
-With a design background, I find myself leaning more towards the front end of the web, and have a particular interest in animation.
+Perhaps favouring front-end development, where I can utilise my graphic skillset, I'm particularly interested in exploring the potentials of web-based animation.
 
-I'm super excited to make myself useful, pursue a new career, develop my skills, craft awesomeness, and get involved with open-source projects!
+<!-- good short line for a brief bio ? -->
+I'm super excited to develop my skills, and some awesome web experiences.
